@@ -7,7 +7,7 @@
 To run this app you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-git clone https://github.com/felixrieseberg/electron-code-editor
+git clone https://github.com/aaqaishtyaq/electron-code-editor
 cd electron-code-editor
 npm install
 npm start
